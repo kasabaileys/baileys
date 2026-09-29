@@ -3,23 +3,26 @@
 [![Logo](https://files.catbox.moe/fnxjup.png)](https://www.npmjs.com/package/@kasabaileys/baileys)
 
 <p align="center">
-   Enhanced Baileys v7 with fixes for newsletter media uploads, plus support for interactive messages, albums, and additional message types.
-   <br><br>
    <a href="https://www.npmjs.com/package/kasabaileys">
-      <img src="https://img.shields.io/npm/v/kasabaileys/baileys?style=for-the-badge&logo=npm"/>
+      <img src="https://img.shields.io/npm/v/kasabaileys?style=for-the-badge&logo=npm"/>
    </a>
-   <a href="https://www.npmjs.com/package/@kasabaileys/baileys">
-      <img src="https://img.shields.io/npm/dm/@kasabaileys/baileys?style=for-the-badge&logo=npm"/>
+
+   <a href="https://www.npmjs.com/package/kasabaileys">
+      <img src="https://img.shields.io/npm/dm/kasabaileys?style=for-the-badge&logo=npm"/>
    </a>
-   <a href="https://github.com/kasabaileys/baileys">
-      <img src="https://img.shields.io/github/stars/kasabaileys/baileys?style=for-the-badge&logo=github"/>
+
+   <a href="https://github.com/kasabaileys/baileys-new">
+      <img src="https://img.shields.io/github/stars/kasabaileys/baileys-new?style=for-the-badge&logo=github"/>
    </a>
+
    <a href="LICENSE">
       <img src="https://img.shields.io/badge/license-MIT-blue?style=for-the-badge"/>
    </a>
+
    <a href="https://nodejs.org">
       <img src="https://img.shields.io/badge/node-%3E%3D20-339933?logo=node.js&labelColor=green&logoColor=white&style=for-the-badge"/>
    </a>
+
    <a href="#">
       <img src="https://img.shields.io/badge/ESM-only?logo=javascript&labelColor=yellow&logoColor=black&style=for-the-badge"/>
    </a>
