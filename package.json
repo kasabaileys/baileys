@@ -1,5 +1,5 @@
 {
-   "name": "kasabaileys",
+   "name": "@kasabaileys/baileys",
    "version": "2.0.0",
    "description": "Enhanced Baileys v7 with fixes for newsletter media uploads, plus support for interactive messages, albums, and additional message types.",
    "main": "lib/index.js",
@@ -13,7 +13,7 @@
    },
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/kasabaileys/baileys-new.git"
+      "url": "git+https://github.com/kasabaileys/baileys.git"
    },
    "files": [
       "lib/**/*",
@@ -32,8 +32,8 @@
       "whatsapp-bot",
       "whatsapp-web"
    ],
-   "homepage": "https://github.com/kasabaileys/baileys-new#readme",
-   "author": "kasabaileys",
+   "homepage": "https://github.com/kasabaileys/baileys#readme",
+   "author": "Angkasa",
    "license": "MIT",
    "dependencies": {
       "@adiwajshing/keyed-db": "^0.2.4",
