@@ -5,7 +5,7 @@
 <p align="center">
    Enhanced Baileys v7 with fixes for newsletter media uploads, plus support for interactive messages, albums, and additional message types.
    <br><br>
-   <a href="https://www.npmjs.com/package/@kasabaileys/baileys">
+   <a href="https://www.npmjs.com/package/@kasabaileys">
       <img src="https://img.shields.io/npm/v/@kasabaileys/baileys?style=for-the-badge&logo=npm"/>
    </a>
    <a href="https://www.npmjs.com/package/@kasabaileys/baileys">
