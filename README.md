@@ -11,8 +11,8 @@
       <img src="https://img.shields.io/npm/dm/kasabaileys?style=for-the-badge&logo=npm"/>
    </a>
 
-   <a href="https://github.com/kasabaileys/baileys-new">
-      <img src="https://img.shields.io/github/stars/kasabaileys/baileys-new?style=for-the-badge&logo=github"/>
+   <a href="https://github.com/kasabaileys/baileys">
+      <img src="https://img.shields.io/github/stars/kasabaileys/baileys?style=for-the-badge&logo=github"/>
    </a>
 
    <a href="LICENSE">
