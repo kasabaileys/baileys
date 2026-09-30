@@ -1,6 +1,6 @@
 {
-   "name": "@kasabaileys/baileys",
-   "version": "2.0.0",
+   "name": "kasabaileys/baileys",
+   "version": "2.0.1",
    "description": "Enhanced Baileys v7 with fixes for newsletter media uploads, plus support for interactive messages, albums, and additional message types.",
    "main": "lib/index.js",
    "types": "lib/index.d.ts",
